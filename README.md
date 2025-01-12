@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm J Jebershon Vetha Singh!<br><br>I'm a passionate developer interested in building innovative solutions using modern technologies. With experience in both front-end and back-end development, I strive to create efficient and user-friendly applications.<br><br>🌟 Skills: Proficient in Java, Python, Spring Boot, and React.<br>🌱 Learning: Exploring DevOps and AI-powered solutions for Linux.<br>🚀 Projects: Working on IoT-enabled agricultural solutions and real-time web applications.<br>✍️ Hobbies: Experimenting with open-source tech, stock investing, and gaming.<br>Feel free to connect or explore my repositories to see what I'm working on! 🌐
+Hi, I'm J Jebershon Vetha Singh!<br><br>I'm a passionate developer interested in building innovative solutions using modern technologies. With experience in both front-end and back-end development, I strive to create efficient and user-friendly applications.<br><br>🌟 Skills: Proficient in Java, Python, Spring Boot, and React.<br>🌱 Learning: Exploring Mendix and AI-powered solutions.<br>🚀 Projects: Working on IoT-enabled agricultural solutions and real-time web applications.<br>✍️ Hobbies: Experimenting with open-source tech, stock investing, and gaming.<br>Feel free to connect or explore my repositories to see what I'm working on! 🌐
 
 
 ## 🌐 Socials:
